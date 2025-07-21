@@ -1,8 +1,8 @@
-git inic. -> cria um repo git na pasta atual
+git inic. 		-> Cria um repo git na pasta atual
 git status -> mostra o status do trabalho 
-git add nome_arquivo -> adiciona arquivo para ser comitado
-git commit -m "msg" -> faz commit que estava para ser comitado 
-git log -> mostra todos o histórico de commit
+git add nome arquivo	-> Adiciona arquivo para ser comitado
+git commit -m "msg" 	-> Faz commit que estava para ser comitado 
+git log 		-> Mostra todos o histórico de commit
 
 >>FLUXO DE TRABALHO<<
 1. criar o diretório do projeto
