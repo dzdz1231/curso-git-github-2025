@@ -1,1 +1,3 @@
-Meu Deus! que loucura esse curso. Tá muito legal!
+<<<<<<< HEAD
+Meu Deus! que loucura esse curso! Tá muito legal!
+
